@@ -6,6 +6,7 @@ def main():
     print(validates(input("IPv4 Address: ")))
 
 
+# Each number should be between 0 & 225
 
 def validates(ip):
     try:
